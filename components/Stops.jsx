@@ -4,6 +4,7 @@ import { useState } from 'react'
 
 const Stops = ({stops, isLoading}) => {
   
+  
   return (
     <>
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">
